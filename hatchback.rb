@@ -1,0 +1,3 @@
+class Hatchback < Car
+
+end

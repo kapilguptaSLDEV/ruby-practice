@@ -1,0 +1,3 @@
+class Sedan < Car
+
+end
